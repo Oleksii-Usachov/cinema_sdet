@@ -1,1 +1,1 @@
-# cinema_sdet
+# Spring project
